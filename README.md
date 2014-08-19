@@ -1,5 +1,4 @@
-##Extremely basic C V4L2 hardware accelerated H264 encoder
- based on [LIBVA (VA-API)](http://freedesktop.org/wiki/Software/vaapi/).
+##Extremely basic C V4L2 hardware accelerated H264 encoder based on [LIBVA (VA-API)](http://freedesktop.org/wiki/Software/vaapi/).
 
 ###Feel free to do w/e with it at your own peril :p
 
